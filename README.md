@@ -33,6 +33,8 @@ We start with part two which will be when we incoparate css into the website and
 We have to make two proposals, then get one picked to do the Skelton for the propsals website. We used HTML for the skeleton and created a site map to see the functionalty of the site map.
 
 # Sitemap
+<img width="703" height="735" alt="image" src="https://github.com/user-attachments/assets/619566c8-6db2-4526-bc57-003d0bbb0a1a" />
+
 
 # Changelog
 * Began making two proposals
@@ -43,4 +45,4 @@ We have to make two proposals, then get one picked to do the Skelton for the pro
 
 # References 
 
-
+The references will be found in the Contents pdf which is situated under the read.me zip file in arc
