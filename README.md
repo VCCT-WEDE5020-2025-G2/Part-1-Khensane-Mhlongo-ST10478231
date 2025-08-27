@@ -35,12 +35,12 @@ We have to make two proposals, then get one picked to do the Skelton for the pro
 # Sitemap
 
 # Changelog
-Began making two proposals
-Made a skeleton with the selected proposal
-Added some pictures to the Imgaes folder, to add into the website when incoparating with css in part two
-Changed up fonts of the headers and mains
-Created hyper links
+* Began making two proposals
+* Made a skeleton with the selected proposal
+* Added some pictures to the Imgaes folder, to add into the website when incoparating with css in part two
+* Changed up fonts of the headers and mains
+* Created hyper links
 
 # References 
 
-Quillbot.com
+
