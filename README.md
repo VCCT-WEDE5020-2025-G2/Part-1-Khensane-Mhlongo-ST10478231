@@ -37,7 +37,8 @@ We start with part two which will be when we incoparate css into the website and
 We have to make two proposals, then get one picked to do the Skelton for the propsals website. We used HTML for the skeleton and created a site map to see the functionalty of the site map.
 
 # Sitemap
-<img width="703" height="735" alt="image" src="https://github.com/user-attachments/assets/619566c8-6db2-4526-bc57-003d0bbb0a1a" />
+<img width="980" height="812" alt="Screenshot 2025-09-27 203930" src="https://github.com/user-attachments/assets/317dfd8a-a459-4cfd-a926-e8ae91d3ae5e" />
+
 
 
 # Changelog
@@ -46,7 +47,18 @@ We have to make two proposals, then get one picked to do the Skelton for the pro
 * Added some pictures to the Imgaes folder, to add into the website when incoparating with css in part two
 * Changed up fonts of the headers and mains
 * Created hyper links
+* Stared design with css
+* Inputing font styles, sizes and color
+* Add Images
+* Creating decorative boxes
+* creating an image on Canva for the homepage background
+* Commmenting code
+* Testing website on deiffrent devices and browsers
 
-# References 
+# References List
+*This reference list is for the website and for the images references will be in the content pdf
 
-The references will be found in the Contents pdf which is situated under the read.me zip file in arc
+
+
+
+The references will be found in the Contents pdf which is situated under the read.me zip file in a
