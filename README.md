@@ -55,10 +55,17 @@ We have to make two proposals, then get one picked to do the Skelton for the pro
 * Commmenting code
 * Testing website on deiffrent devices and browsers
 
+# Images
+* This is my website opened on microsoft
+<img width="1917" height="1043" alt="Screenshot 2025-09-29 163201" src="https://github.com/user-attachments/assets/1aaf2eb5-030b-4b02-940e-accf20d33532" />
+<img width="1912" height="1070" alt="Screenshot 2025-09-29 163223" src="https://github.com/user-attachments/assets/29be5fb5-435b-40c0-95dc-18532c8967e2" />
+
+*This is my website opened on chrome
+<img width="1910" height="1029" alt="Screenshot 2025-09-29 163005" src="https://github.com/user-attachments/assets/a9e4a43d-130d-4f48-b548-ceccc71491db" />
+<img width="1915" height="1034" alt="Screenshot 2025-09-29 163131" src="https://github.com/user-attachments/assets/9cd9502b-355e-4893-9129-1fcf12dd06d7" />
+
+
 # References List
 *This reference list is for the website and for the images references will be in the content pdf
-
-
-
-
-The references will be found in the Contents pdf which is situated under the read.me zip file in a
+Thewheelchairguy, 2020. How to make a box in html. [video online] Available at: <https://www.youtube.com/shorts/LwCldTVmqKY> [Accessed 28 September 2025].
+CSSNotesForProffesionals. [pdf] CSSNotesForProffesionals. Available at: <https://books.goalkicker.com/CSSBook/> [Accessed 28 September 2025]. 
