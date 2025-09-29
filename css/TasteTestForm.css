@@ -1,0 +1,85 @@
+/* (How To Download and Install Google Fonts - Mac and PC, 2020). This youtube video showed me how to download the google fonts that l am using in my webpage */
+
+/* Code for the paragragh text to center */
+p {
+    text-align: center;
+}
+
+/* Styles for the hyperlink */
+a {
+    color: white;
+    font-family: 'Hammersmith One', sans-serif;
+    word-spacing: 0.1em;
+    text-align: center;
+    padding: 0 20px;
+}
+
+/* Styles for the title of the webpage */
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 60px;
+    color: white;
+}
+
+/* Styles for the title of the subheading */
+h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5em;
+    color: white;
+}
+
+/* Styles for the whole form */
+#TasteTestForm {
+    display: block;
+    margin-bottom: 20px;
+    padding: 20px;
+    color: white;
+    font-size: 18px;
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+/* Styles for the area the user will input additional information the NGO should know about */
+#TasteTestForm textarea {
+    resize: none;
+    width: 350px;
+    height: 100px;
+    font-size: 16px;
+}
+
+/* Styles for the input for the user to type in their answers */
+input {
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 16px;
+    border-radius: 15px;
+    padding: 5px;
+    margin-bottom: 35px;
+}
+
+/* Styles for the labels of the input fields */
+label {
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 18px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+/* Styles for the submit button */
+button {
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 18px;
+    color: #3E3E3E;
+    border-radius: 15px;
+    padding: 10px 20px;
+    border: none;
+}
+
+/* CSSNotesForProffessionals (2025) says to make a buttun change color when hovered implement this */
+button:hover {
+    background-color: E0E0E0; 
+    color: rgb(254, 184, 184); 
+}
+
+/* Background for the webpage */
+body {
+    background-color: #253439;
+}

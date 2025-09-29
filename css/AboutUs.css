@@ -1,0 +1,52 @@
+/* (How To Download and Install Google Fonts - Mac and PC, 2020). This youtube video showed me how to download the google fonts that l am using in my webpage */
+
+/* Styles for the hyperlink */
+a {
+    color: white;
+    font-family: 'Hammersmith One', sans-serif;
+    word-spacing: 0.1em;
+    text-align: center;
+    padding: 0 20px;
+}
+
+
+/* Styles for the the title of the webpage */
+h1 {
+    font-family: Playfair Display, serif;
+    font-size: 60px;
+    color: white;
+    margin-top: 20px;
+}
+
+
+/* Styles for the subheading */
+h2 {
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 30px;
+    color: white;
+    margin-top: 20px;
+}
+
+
+/* Styles for the subheading explanation */
+h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    color: white;
+    margin-top: 20px;
+}
+
+/* Styles for the paragraph */
+p {
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 18px;
+    color: white;
+    margin: 20px 100px 20px 100px;
+    text-align: center;
+}
+
+
+/* Background for the webpage */
+body {
+    background-color: #56686a;
+}

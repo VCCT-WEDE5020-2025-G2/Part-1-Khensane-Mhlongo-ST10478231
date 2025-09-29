@@ -1,0 +1,96 @@
+/* (How To Download and Install Google Fonts - Mac and PC, 2020). This youtube video showed me how to download the google fonts that l am using in my webpage */
+
+/* Code for the paragragh text to center */
+p {
+    text-align: center;
+}
+
+/* Styles for the hyperlink */
+a {
+    color: white;
+    font-family: 'Hammersmith One', sans-serif;
+    word-spacing: 0.1em;
+    text-align: center;
+    padding: 0 20px;
+}
+
+/* Styles for the title of the webpage */
+h1 {
+    color: #253439;
+    font-family: 'Hammersmith One', sans-serif;
+    text-align: center;
+    font-size: 43px;
+    margin: 0;
+    
+}
+
+/* CSSNotesForProffesionals (2025) says implemeting this css code will help with positioning and styling for the box */
+.box1 {
+    width: 516.4px;
+    height: 108.3px;
+    background-color: #f6f4f1;
+    text-align: center;
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+/* Styles for the image */
+img {
+    margin-left: 0; 
+    border-radius: 10px;
+    display: block; 
+    margin-top: 120px;
+    width: 200px;
+    height: 170px;
+    object-fit: cover;
+    margin-right: 40px;
+}
+
+/* Styles for the subheading */
+h2 {
+    color: #fffdfd;
+    font-family: 'Playfair Display', serif;
+    margin-left: 320px;
+    font-size: 38px;
+    font-style: italic;
+    margin-left: 110px;
+}
+
+/* Styles for the unordered list */
+ul {
+    text-justify: center;
+    margin-left: 0px;
+    list-style: none;
+    color: white;
+    font-size: 23px;
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+/* ( CSSNotesForProffesionals (2025) says implemeting this css code will help with positioning the image and unordered list perfectly */
+.LittleBites-Container {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 50px; 
+    max-width: 800px; 
+    margin-left: 50px;
+    padding: 0 20px;
+}
+
+/* ( CSSNotesForProffesionals (2025) says implemeting this css code will help with positioning the image and unordered list perfectly */
+.LittleBites-Container2 {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 50px; 
+    max-width: 800px; 
+    margin-left: auto;
+    margin-right: 0px;
+    padding: 0 20px;
+}
+
+/* Background colour of the webpage */
+body {
+    background-color: #253439;
+}

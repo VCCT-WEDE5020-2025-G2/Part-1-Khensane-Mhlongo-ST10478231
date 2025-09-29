@@ -1,0 +1,43 @@
+/* (How To Download and Install Google Fonts - Mac and PC, 2020). This youtube video showed me how to download the google fonts that l am using in my webpage */
+
+/* Hyperlink styles for Homepage navigation */
+a {
+    color: #3E3E3E;
+    font-family: 'Hammersmith One', sans-serif;
+    word-spacing: 0.1em;
+    text-align: center;
+    padding: 0 20px;
+}
+
+/* Styles for the headig of the webpage */
+h1 {
+    color: #3E3E3E;
+    font-size: 60px;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+
+/*( Cssforproffesionals (2025) states that this is how you add a background image and position it in css) */
+body {
+    text-align: center;
+    background-image: url('../Images/HomepageBackground.png'); 
+    background-size: cover;
+    background-position: fixed;
+}
+
+/* Styles for the subheading */
+.Subheading {
+    color: #3E3E3E;
+    font-family: 'Hammersmith One', sans-serif;
+    margin-right: 780px;
+    margin-top: 120px;
+    margin-bottom: 10px;
+    font-size: 38px;
+}
+
+/* Styles for the paragraph */
+.Subheading p {
+    font-size: 23px;
+    color: #3E3E3E;
+    font-family: 'Hammersmith One', sans-serif;
+}

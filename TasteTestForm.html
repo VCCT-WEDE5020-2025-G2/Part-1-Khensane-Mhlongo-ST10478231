@@ -1,31 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <center>
-        <h1><i>Taste test form</i></h1>
-
-        <h3>Fill in this form if you would like to schedule a taste test in order to taste the sweetness of Zulu Bakeries</h3>
-    
-    
-    <form name="MySecondForm" id="MySecondForm">
-        Frist Name:
-    <br>
-        <input type="text" name="First Name" />
-    <br>
-        Email:
-    <br>
-        <input type="email" name="Email" />
-    <br>
-        Cellphone no.:
-    <br>
-        <input type="Cellphone no." name="Cellphone no." />
-    <br>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- This is the link that will allow the styles in LittleBites.css to be implemeted on this code -->
+    <link rel="stylesheet" href="css/TasteTestForm.css">
 </head>
 <body>
+    <!-- Hyperlinks used to navigate to the page the user selects -->
+    <p class="hyperlinks">
+        <a href="LittleBites.html">-Little Bites-</a> 
+        <a href="BigBites.html">-Big Bites-</a> 
+        <a href="Pastries.html">-Pastries-</a>
+        <a href="TasteTestForm.html">-Taste Test Form-</a> 
+        <a href="Contact.html">-Contact Us-</a> 
+        <a href="AboutUs.html">-About Us-</a> 
+    </p>
 
+    <center> <!-- To centre the form -->
+        <h1><i>Taste test form</i></h1>
+
+        <h3>Fill in this form if you would like to schedule a taste test of the luxuries of Zulu Bakeries</h3>
+    
+    <!-- Used the form method for the user to enter  what is asked of them for the taste test -->
+    <form name="TasteTestForm" id="TasteTestForm"> 
+        <!-- The following input types were used to get the required information from the user -->
+        First Name:
+    <br> <!-- Used to provide space in between-->
+        <input type="text" name="First Name" />
+    <br> <!-- Used to provide space in between-->
+        Surname:
+    <br> <!-- Used to provide space in between-->
+        <input type="text" name="Surname" />
+    <br> <!-- Used to provide space in between-->
+        Email:
+    <br> <!-- Used to provide space in between-->
+        <input type="email" name="Email" />
+    <br> <!-- Used to provide space in between-->
+        Cellphone no.:
+    <br> <!-- Used to provide space in between--> 
+        <input type="Cellphone no." name="Cellphone no." />
+    <br>
+        Event Type: 
+    <br>
+        <input type="text" name="Event Type" />
+    <br>
+        Event Date:
+    <br>
+        <input type="date" name="Event Date" />
+    <br>
+        Number of Guests:
+    <br>
+        <input type="number" name="Number of Guests" /> 
+    <br>
+       <label for="additionalInfo">Additional Information:</label>
+    <br>
+        <textarea id="additionalInfo" name="additionalInfo" rows="4" cols="40"></textarea>
+    <br>
+    
+
+</form>
+        <!-- The user will press this button to submit their form -->
         <button type="Submit">Submit Form</button>
-    </form>
-
+    
 </center>
 </body>
 </html>
