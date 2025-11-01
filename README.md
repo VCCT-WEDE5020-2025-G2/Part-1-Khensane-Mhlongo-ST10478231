@@ -80,8 +80,11 @@ This reference list is for the website and for the images references will be in 
 * dcode (n.d.) Creating a Stylish Search Bar for Your Website: HTML & CSS Tutorial. YouTube video, available at: https://youtu.be/f6ocDCkCmhM?si=NLJzmj4jRm3ylzhL
  (Accessed: 1 November 2025).
 
-*ime creative (n.d.) How to add Google Maps to Website | HTML CSS. YouTube video, available at: https://youtu.be/0F-p2cUdibU?si=b1M9IQV5NO5F2QRk
+* ime creative (n.d.) How to add Google Maps to Website | HTML CSS. YouTube video, available at: https://youtu.be/0F-p2cUdibU?si=b1M9IQV5NO5F2QRk
  (Accessed: 1 November 2025).
+
+* OpenAI, 2025. ChatGPT (GPT-5 mini) [Large language model]. Available at: https://chat.openai.com
+ [Accessed 1 November 2025].
 
 
 
