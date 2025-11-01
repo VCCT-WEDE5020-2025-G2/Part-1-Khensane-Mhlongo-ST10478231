@@ -59,7 +59,7 @@ a:active {
     border-radius: 15px;
 }
 
-/* Styles for the search bar */
+/* dcode(2023), says this is how you style a search bar */
 .search{
     width:max-content;
     display: flex;
