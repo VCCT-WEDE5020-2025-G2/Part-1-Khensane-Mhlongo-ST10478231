@@ -66,6 +66,38 @@ We have to make two proposals, then get one picked to do the Skelton for the pro
 
 
 # References List
-*This reference list is for the website and for the images references will be in the content pdf
-Thewheelchairguy, 2020. How to make a box in html. [video online] Available at: <https://www.youtube.com/shorts/LwCldTVmqKY> [Accessed 28 September 2025].
-CSSNotesForProffesionals. [pdf] CSSNotesForProffesionals. Available at: <https://books.goalkicker.com/CSSBook/> [Accessed 28 September 2025]. 
+This reference list is for the website and for the images references will be in the content pdf
+
+* Thewheelchairguy, 2020. How to make a box in html. [video online] Available at: <https://www.youtube.com/shorts/LwCldTVmqKY> [Accessed 28 September 2025].
+* CSSNotesForProffesionals. [pdf] CSSNotesForProffesionals. Available at: <https://books.goalkicker.com/CSSBook/> [Accessed 28 September 2025].
+  
+* Build a lightbox in vanilla JavaScript, part 1 (n.d.) YouTube video, YouTube, available at: https://www.youtube.com/watch?v=K2Kt3EdvaZA
+ (Accessed: 1 November 2025).
+
+* Programming with Mosh (2020) JavaScript DOM Tutorial #18 – DOMContentLoaded Event. YouTube video, 17 March. Available at: https://www.youtube.com/watch?v=G5Or47gPH-4
+ (Accessed: 1 November 2025).
+
+* dcode (n.d.) Creating a Stylish Search Bar for Your Website: HTML & CSS Tutorial. YouTube video, available at: https://youtu.be/f6ocDCkCmhM?si=NLJzmj4jRm3ylzhL
+ (Accessed: 1 November 2025).
+
+*ime creative (n.d.) How to add Google Maps to Website | HTML CSS. YouTube video, available at: https://youtu.be/0F-p2cUdibU?si=b1M9IQV5NO5F2QRk
+ (Accessed: 1 November 2025).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
