@@ -7,12 +7,13 @@ a {
     word-spacing: 0.1em;
     text-align: center;
     padding: 0 20px;
+    text-decoration: none;
 }
 
 
 /* Styles for the the title of the webpage */
 h1 {
-    font-family: Playfair Display, serif;
+    font-family: 'Playfair Display', serif;
     font-size: 60px;
     color: white;
     margin-top: 20px;
@@ -49,4 +50,21 @@ p {
 /* Background for the webpage */
 body {
     background-color: #56686a;
+}
+/* Styles for the buttons */
+
+button {
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 18px;
+    color: #fbf8f8;
+    border-radius: 15px;
+    border: none;
+    background-color: #93a2b8;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: E0E0E0; 
+    color: rgb(126, 174, 189); 
 }

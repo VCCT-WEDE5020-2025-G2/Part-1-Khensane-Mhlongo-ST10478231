@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,8 +7,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- This is the link that will allow the styles in LittleBites.css to be implemeted on this code -->
     <link rel="stylesheet" href="css/TasteTestForm.css">
+    <!-- This link will allow the javascript to be implemented on this page-->
+    <script src="js/TasteTestForm.js"></script>
+    <title>Taste Test Form</title>
 </head>
 <body>
+    <!-- A return button-->
+    <button id="returnButton">Return</button>
+
     <!-- Hyperlinks used to navigate to the page the user selects -->
     <p class="hyperlinks">
         <a href="LittleBites.html">-Little Bites-</a> 
@@ -16,6 +23,7 @@
         <a href="TasteTestForm.html">-Taste Test Form-</a> 
         <a href="Contact.html">-Contact Us-</a> 
         <a href="AboutUs.html">-About Us-</a> 
+        <a href="Gallery.html">-Gallery</a>
     </p>
 
     <center> <!-- To centre the form -->
@@ -23,47 +31,59 @@
 
         <h3>Fill in this form if you would like to schedule a taste test of the luxuries of Zulu Bakeries</h3>
     
-    <!-- Used the form method for the user to enter  what is asked of them for the taste test -->
-    <form name="TasteTestForm" id="TasteTestForm"> 
+    <!-- Used the form method for the user to enter what is asked of them for the taste test -->
+    <form name="TasteTestForm" id="TasteTestForm" novalidate>
         <!-- The following input types were used to get the required information from the user -->
-        First Name:
-    <br> <!-- Used to provide space in between-->
-        <input type="text" name="First Name" />
-    <br> <!-- Used to provide space in between-->
-        Surname:
-    <br> <!-- Used to provide space in between-->
-        <input type="text" name="Surname" />
-    <br> <!-- Used to provide space in between-->
-        Email:
-    <br> <!-- Used to provide space in between-->
-        <input type="email" name="Email" />
-    <br> <!-- Used to provide space in between-->
-        Cellphone no.:
-    <br> <!-- Used to provide space in between--> 
-        <input type="Cellphone no." name="Cellphone no." />
+        <label for="firstName">First Name:</label>
     <br>
-        Event Type: 
+        <input type="text" name="firstName" id="firstName" required />
+        <span class="error-message" id="error-firstName" aria-live="polite"></span>
     <br>
-        <input type="text" name="Event Type" />
+        <label for="surname">Surname:</label>
     <br>
-        Event Date:
+        <input type="text" name="surname" id="surname" />
+        <span class="error-message" id="error-surname" aria-live="polite"></span>
     <br>
-        <input type="date" name="Event Date" />
+        <label for="email">Email:</label>
     <br>
-        Number of Guests:
+        <input type="email" name="email" id="email" required />
+        <span class="error-message" id="error-email" aria-live="polite"></span>
     <br>
-        <input type="number" name="Number of Guests" /> 
+        <label for="cellphone">Cellphone no.:</label>
+    <br>
+        <input type="tel" name="cellphone" id="cellphone" required />
+        <span class="error-message" id="error-cellphone" aria-live="polite"></span>
+    <br>
+        <label for="eventType">Event Type:</label>
+    <br>
+        <input type="text" name="eventType" id="eventType" />
+        <span class="error-message" id="error-eventType" aria-live="polite"></span>
+    <br>
+        <label for="eventDate">Event Date:</label>
+    <br>
+        <input type="date" name="eventDate" id="eventDate" required />
+        <span class="error-message" id="error-eventDate" aria-live="polite"></span>
+    <br>
+        <label for="numberOfGuests">Number of Guests:</label>
+    <br>
+        <input type="number" name="numberOfGuests" id="numberOfGuests" min="1" required />
+        <span class="error-message" id="error-numberOfGuests" aria-live="polite"></span>
     <br>
        <label for="additionalInfo">Additional Information:</label>
     <br>
         <textarea id="additionalInfo" name="additionalInfo" rows="4" cols="40"></textarea>
+        <span class="error-message" id="error-additionalInfo" aria-live="polite"></span>
     <br>
-    
+
+    <div id="form-messages" role="status" aria-live="polite"></div>
+
+    <!-- The user will press this button to submit their form -->
+    <button type="submit" id="submitBtn">Submit Form</button>
 
 </form>
-        <!-- The user will press this button to submit their form -->
-        <button type="Submit">Submit Form</button>
-    
+    <script src="js/TasteTestForm.js"></script>
+
 </center>
+
 </body>
 </html>

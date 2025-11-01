@@ -12,6 +12,7 @@ a {
     word-spacing: 0.1em;
     text-align: center;
     padding: 0 20px;
+    text-decoration: none;
 }
 
 /* Styles for the title of the webpage */
@@ -94,3 +95,32 @@ ul {
 body {
     background-color: #253439;
 }
+
+button {
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 18px;
+    color: #3E3E3E;
+    border-radius: 15px;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: E0E0E0; 
+    color: rgb(131, 194, 230); 
+}
+
+/*animations for the hyperlinks*/
+a:hover {
+    color: #f8f6f6;
+    font-size: 22px;
+    transition: 0.3s;
+}
+
+a:active {
+    color: #e3dada;
+    background-color: antiquewhite;
+    border-radius: 15px;
+}
+

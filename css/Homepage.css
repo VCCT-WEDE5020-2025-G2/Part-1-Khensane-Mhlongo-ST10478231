@@ -7,6 +7,8 @@ a {
     word-spacing: 0.1em;
     text-align: center;
     padding: 0 20px;
+    text-decoration: none;
+    margin-top: 10px;
 }
 
 /* Styles for the headig of the webpage */
@@ -15,6 +17,8 @@ h1 {
     font-size: 60px;
     font-family: 'Playfair Display', serif;
     text-align: center;
+    margin-top: 20px;
+    margin-bottom: 15px;
 }
 
 /*( Cssforproffesionals (2025) states that this is how you add a background image and position it in css) */
@@ -40,4 +44,38 @@ body {
     font-size: 23px;
     color: #3E3E3E;
     font-family: 'Hammersmith One', sans-serif;
+}
+
+/*animations for the hyperlinks*/
+a:hover {
+    color: #f8f6f6;
+    font-size: 22px;
+    transition: 0.3s;
+}
+
+a:active {
+    color: #e3dada;
+    background-color: antiquewhite;
+    border-radius: 15px;
+}
+
+/* Styles for the search bar */
+.search{
+    width:max-content;
+    display: flex;
+    align-items: center;
+    padding: 14px;
+    border-radius: 15px;
+    background: #f6f6f6;
+    margin-bottom: 5px;
+}
+
+.search-input{
+    font-size: 15px;
+    font-family: 'Hammersmith One', sans-serif;
+    color: #333333;
+    margin-left: 14px;
+    border: none;
+    background: transparent;
+    outline: none;
 }
