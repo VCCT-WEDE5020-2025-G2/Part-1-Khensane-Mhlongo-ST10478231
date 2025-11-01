@@ -54,6 +54,15 @@ We have to make two proposals, then get one picked to do the Skelton for the pro
 * creating an image on Canva for the homepage background
 * Commmenting code
 * Testing website on deiffrent devices and browsers
+* Added another html page gallery
+* added a light box
+* Added return buttons
+* Added interactive maps
+* Added more comments
+* Added more images
+* Added intext referncing
+* Added referencing
+* Added more css
 
 # Images
 * This is my website opened on microsoft
